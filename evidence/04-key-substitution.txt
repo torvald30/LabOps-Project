@@ -1,0 +1,16 @@
+GPG Key Substitution Demonstration
+
+The demonstration key was exported and imported into an empty keyring.
+
+The imported key displayed the same name and email address as the
+release key, but its fingerprint was different.
+
+The test note was encrypted using the imported public key and
+successfully decrypted using the matching demonstration private key.
+
+Result:
+Encryption and decryption succeeded.
+
+Security lesson:
+Always verify public-key fingerprints through a trusted second channel
+before trusting or using a public key.

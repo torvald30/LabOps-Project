@@ -1,0 +1,13 @@
+Nmap Scan Analysis
+
+Target: 127.0.0.1
+Port: 2222/tcp
+Service: SSH
+State: Open
+
+The Nmap scan identified an SSH service running on the local LabOps
+environment. This confirms that the SSH service is reachable.
+
+Security recommendation:
+Use strong unique passwords, multi-factor authentication where
+supported, and restrict SSH access to authorized users.

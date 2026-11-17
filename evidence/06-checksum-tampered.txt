@@ -1,0 +1,5 @@
+Installation Script Tampering Test
+Original checksum result: install.sh: OK
+After adding a harmless test comment:
+install.sh: FAILED
+sha256sum: WARNING: 1 computed checksum did NOT match

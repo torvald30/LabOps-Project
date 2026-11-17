@@ -1,0 +1,4 @@
+total 12
+-rw-rw-r-- 1 kali kali 34 Nov 17 11:28 install.sh
+-rw-rw-r-- 1 kali kali 77 Nov 17 11:28 install.sh.sha256
+-rw------- 1 kali kali 26 Nov 17 11:28 secrets.env

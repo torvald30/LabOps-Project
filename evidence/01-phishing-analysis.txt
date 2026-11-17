@@ -1,0 +1,19 @@
+Phishing Awareness Analysis
+
+The demonstration shows a simple login page that could be used to explain phishing risks.
+
+Five warning signs:
+
+1. Suspicious or incorrect website URL.
+2. Missing HTTPS security.
+3. No clear company or website identity.
+4. Poor design or unusual language.
+5. Unexpected requests for login information.
+
+Protection methods:
+
+1. Check the website address carefully.
+2. Use trusted bookmarks.
+3. Enable multi-factor authentication.
+4. Never enter passwords on suspicious websites.
+5. Report suspicious messages and pages.

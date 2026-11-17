@@ -1,0 +1,24 @@
+SSH Security Analysis
+
+Target: Local LabOps SSH service
+Address: 127.0.0.1
+Port: 2222
+
+Observation:
+The Nmap scan confirmed that SSH is accessible on the local
+LabOps environment.
+
+Security risks:
+- Weak passwords can make accounts easier to compromise.
+- Shared passwords increase security risks.
+- Unnecessary SSH access should be restricted.
+
+Recommended improvements:
+- Use strong, unique passwords.
+- Disable unused accounts.
+- Use SSH key authentication.
+- Restrict access to authorized users.
+- Monitor SSH login activity.
+
+Testing limitation:
+Testing was restricted to the authorized local LabOps environment.

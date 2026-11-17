@@ -1,0 +1,11 @@
+=== RELEASE KEY ===
+pub   rsa4096 2026-11-17 [SCE] [expires: 2027-11-17]
+      E554 B456 080A 6116 3704  6922 648B 4472 E65D 6DB8
+uid           [ultimate] LabOps Release <labops-release@labops.example>
+
+
+=== SECOND DEMONSTRATION KEY ===
+pub   rsa4096 2026-11-17 [SCE] [expires: 2027-11-17]
+      598E 9193 7CB5 E818 709D  AB20 5EDD DB4E B815 E896
+uid           [ultimate] LabOps Release <labops-release@labops.example>
+
